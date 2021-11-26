@@ -1,4 +1,4 @@
 # danamic
 
-cd danamicltkyaw99
+cd danamicltk99
 
