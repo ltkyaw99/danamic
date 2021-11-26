@@ -1,0 +1,4 @@
+# danamic
+
+cd danamicltkyaw99
+
